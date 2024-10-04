@@ -40,7 +40,7 @@ Execute the program using runserver command.
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="4" border="5" bgcolor="aqua">
-<caption><b>SLOT TIMETABLE - Atluru Sai Vardhan Reddy (212221040022)</b></caption>
+<caption><b>SLOT TIMETABLE - Karthickkumar (212223040087)</b></caption>
 <tr align="center">
 	<th bgcolor="yellow">Day/Time</th>
 	<th bgcolor="yellow">Monday</th>
@@ -135,7 +135,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![Screenshot 2024-10-02 143827](https://github.com/user-attachments/assets/832ea62e-0d49-4b77-91a2-4d0a5436c5e6)
+![image](https://github.com/user-attachments/assets/4022662b-30d8-41a5-92e3-4be83951cc5b)
+
 
 
 ## RESULT
